@@ -18,17 +18,6 @@ $(function () {
     return false;
   });
 
-  //固定ヘッダー
-  // $(window).scroll(function () {
-  //   if ($(window).scrollTop() >= offset.top) {
-  //     $nav.addClass('fixed');
-  //     $("body").css("margin-top", navHeight);
-  //   } else {
-  //     $nav.removeClass('fixed');
-  //     $("body").css("margin-top", "0");
-  //   }
-  // });
-
   //ページ内スクロール
   var $nav = $(".gnav");
   var offset = $nav.offset();
