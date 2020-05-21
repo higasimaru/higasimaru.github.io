@@ -15,7 +15,7 @@ body {
 
 a {
   text-decoration: none;
-  color: #1ca9e3;
+  color: gold;
 }
 
 a img {
@@ -96,7 +96,7 @@ li {
 ---------------------------------*/
 .header {
   display: flex;
-  background-image: url("img/header2.jpg");
+  background-image: url("img/girl.jpg");
   background-size: cover;
   align-items: center;
   justify-content: center;
