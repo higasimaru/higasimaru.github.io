@@ -1,6 +1,7 @@
 // PhotoSwipe
 initPhotoSwipeFromDOM('.js-my-gallery');
 
+
 $(function () {
 
   //Worksのリンクを有効化
@@ -36,6 +37,11 @@ $(function () {
     );
     return false;
   });
+
+  $('.contact-image-wrapper').on('mouseover', function() {
+    $('#gmail').rotate({angle:45});
+      
+  })
 
 
 });
