@@ -1,3 +1,3 @@
-# Portfolio　自己紹介
+# Portfolio 自己紹介
 https://higasimaru.github.io/
 
